@@ -1,16 +1,9 @@
-# kiran
+# Output Images
 
-A new Flutter project.
+![Screenshot (765)](https://github.com/kiranayaka/5gencare_assignment/assets/49016927/5175db43-2c9e-4bb9-acad-797cfdc1558a)
+![Screenshot (769)](https://github.com/kiranayaka/5gencare_assignment/assets/49016927/a501724a-f2e6-47ef-af9e-02538d6c8a34)
+![Screenshot (766)](https://github.com/kiranayaka/5gencare_assignment/assets/49016927/c88750f5-8bc0-46b2-a0ca-f7619cc9811c)
+![Screenshot (768)](https://github.com/kiranayaka/5gencare_assignment/assets/49016927/7f9a76b6-bdf6-4f6c-903e-f8dd2fb85172)
+![Screenshot (767)](https://github.com/kiranayaka/5gencare_assignment/assets/49016927/435e34ec-3678-46db-b712-e0466e01a146)
+![Screenshot (770)](https://github.com/kiranayaka/5gencare_assignment/assets/49016927/91e547da-7300-4f59-950b-24e03105a715)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
